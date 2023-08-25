@@ -1,14 +1,7 @@
-## Tareas
+README.md
 
-Cada tarea debe estar contenida en una carpeta llamada `Tarea_XX` donde `XX` es el número de la tarea. Si tiene un solo dígito, se debe anteponer un `0` a este.
+# Conclusiones de la clase 1
 
-Ejemplo: 
-* ...
-* `Tarea_08`
-* `Tarea_09`
-* `Tarea_10`
-* `Tarea_11`
-* `Tarea_12`
-* ...
+Durante la primera clase concluí que es importante tener conocicmiento sobre herramientas digitales y de programación como estas, porque en el futuro tendremos que hacer varias cosas por nuestra propia cuentas, más allá de solo investigar y escribir. Además, el periodismo de datos es muy importante, pero debemos ser capaces de hacer llegar la información a la audiencia de una forma **clara, comprensible y atractiva**.
 
-Dentro de cada una de las tareas, **debes** tener un archivo `README.md` que utilice [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) donde expliques toda cosa asumida, consideración e información útil para tu corrector. 
+[Adjunto el link del Miro](https://miro.com/app/board/uXjVMuoRCF4=/)
